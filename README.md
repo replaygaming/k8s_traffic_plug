@@ -14,7 +14,7 @@ See modules for detailed documentation, also my blog post, [Graceful shutdown on
 ```elixir
 def deps do
   [
-    {:k8s_traffic_plug, github: "Financial-Times/k8s_traffic_plug"}
+    {:k8s_traffic_plug, github: "replaygaming/k8s_traffic_plug"}
   ]
 end
 ```
